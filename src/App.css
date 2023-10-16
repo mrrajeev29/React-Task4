@@ -1,0 +1,33 @@
+:root {
+  font-family: 'Inter', system-ui, 'Avenir', 'Helvetica', 'Arial', sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #242424;
+}
+
+body {
+  text-align: center;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+h1 {
+  font-size: 2.2em;
+  line-height: 1.1;
+}
+
+.data table {
+  border-radius: 5px;
+  border: white 2px solid;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.data table th {
+  border-bottom: whitesmoke 1px solid;
+}
+
+.data table td {
+  text-align: left;
+}
